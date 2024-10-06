@@ -29,4 +29,3 @@ jobs:
         github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         publish_dir: ./exampleSite/public
 
-
